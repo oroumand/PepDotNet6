@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd5a635e-4235-41e5-b1c6-963e825764d6": {
+      "ProjectGuid": "cd5a635e-4235-41e5-b1c6-963e825764d6",
+      "DisplayName": "PepEfCoreIntroduction",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
