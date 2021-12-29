@@ -1,0 +1,15 @@
+E:\Source\LinqSamples\LinqSamples\bin\Debug\net6.0\LinqSamples.exe
+E:\Source\LinqSamples\LinqSamples\bin\Debug\net6.0\LinqSamples.deps.json
+E:\Source\LinqSamples\LinqSamples\bin\Debug\net6.0\LinqSamples.runtimeconfig.json
+E:\Source\LinqSamples\LinqSamples\bin\Debug\net6.0\LinqSamples.dll
+E:\Source\LinqSamples\LinqSamples\bin\Debug\net6.0\ref\LinqSamples.dll
+E:\Source\LinqSamples\LinqSamples\bin\Debug\net6.0\LinqSamples.pdb
+E:\Source\LinqSamples\LinqSamples\obj\Debug\net6.0\LinqSamples.csproj.AssemblyReference.cache
+E:\Source\LinqSamples\LinqSamples\obj\Debug\net6.0\LinqSamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\LinqSamples\LinqSamples\obj\Debug\net6.0\LinqSamples.AssemblyInfoInputs.cache
+E:\Source\LinqSamples\LinqSamples\obj\Debug\net6.0\LinqSamples.AssemblyInfo.cs
+E:\Source\LinqSamples\LinqSamples\obj\Debug\net6.0\LinqSamples.csproj.CoreCompileInputs.cache
+E:\Source\LinqSamples\LinqSamples\obj\Debug\net6.0\LinqSamples.dll
+E:\Source\LinqSamples\LinqSamples\obj\Debug\net6.0\ref\LinqSamples.dll
+E:\Source\LinqSamples\LinqSamples\obj\Debug\net6.0\LinqSamples.pdb
+E:\Source\LinqSamples\LinqSamples\obj\Debug\net6.0\LinqSamples.genruntimeconfig.cache
