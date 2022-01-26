@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Source\\EFQuertSample\\EFQuertSample.LazyLoading\\EFQuertSample.LazyLoading.csproj": {}
+    "E:\\Source\\PepDotNet6\\EFCore\\Session03\\EFQuertSample\\EFQuertSample.LazyLoading\\EFQuertSample.LazyLoading.csproj": {}
   },
   "projects": {
-    "E:\\Source\\EFQuertSample\\EFQuertSample.LazyLoading\\EFQuertSample.LazyLoading.csproj": {
+    "E:\\Source\\PepDotNet6\\EFCore\\Session03\\EFQuertSample\\EFQuertSample.LazyLoading\\EFQuertSample.LazyLoading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Source\\EFQuertSample\\EFQuertSample.LazyLoading\\EFQuertSample.LazyLoading.csproj",
+        "projectUniqueName": "E:\\Source\\PepDotNet6\\EFCore\\Session03\\EFQuertSample\\EFQuertSample.LazyLoading\\EFQuertSample.LazyLoading.csproj",
         "projectName": "EFQuertSample.LazyLoading",
-        "projectPath": "E:\\Source\\EFQuertSample\\EFQuertSample.LazyLoading\\EFQuertSample.LazyLoading.csproj",
+        "projectPath": "E:\\Source\\PepDotNet6\\EFCore\\Session03\\EFQuertSample\\EFQuertSample.LazyLoading\\EFQuertSample.LazyLoading.csproj",
         "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "E:\\Source\\EFQuertSample\\EFQuertSample.LazyLoading\\obj\\",
+        "outputPath": "E:\\Source\\PepDotNet6\\EFCore\\Session03\\EFQuertSample\\EFQuertSample.LazyLoading\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oE6HhxoRJ0pBNeQTQ4+L02ZjcysRabf0eyaOJd3TiHO2i2Y5IP7Og1aB+C9qJXWDRcIWlLmISKfxa8qcEh0wMA==",
+  "dgSpecHash": "9H8dMPunr4jXg3nDM8TS9OTsEXEHRu+rQHkEpt77/5/0R3EOEI4/o+a/cOWLki+UA0Sk0AF2A32yjrWX8nfPNQ==",
   "success": true,
-  "projectFilePath": "E:\\Source\\EFQuertSample\\EFQuertSample.LazyLoading\\EFQuertSample.LazyLoading.csproj",
+  "projectFilePath": "E:\\Source\\PepDotNet6\\EFCore\\Session03\\EFQuertSample\\EFQuertSample.LazyLoading\\EFQuertSample.LazyLoading.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

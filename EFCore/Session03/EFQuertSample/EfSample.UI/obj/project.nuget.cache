@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s4Fyoh6XzX42rLFg9h7l5V74MDX8YC+UqYHj13rk7yl+P8uIlAPhKO2U9R0vgXq0rjsMYFESCPtlkVPX8mWMDA==",
+  "dgSpecHash": "cONUnk/CfHRlv3z/9vsjkQb1fwgYq1ZmDu3jvuVKgpUJ2PpXePqfbCNkz337e6j5jmCScABNaItu6DCS/bTTOQ==",
   "success": true,
-  "projectFilePath": "E:\\Source\\EFQuertSample\\EfSample.UI\\EfSample.UI.csproj",
+  "projectFilePath": "E:\\Source\\PepDotNet6\\EFCore\\Session03\\EFQuertSample\\EfSample.UI\\EfSample.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

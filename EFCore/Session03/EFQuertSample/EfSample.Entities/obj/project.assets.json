@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Source\\EFQuertSample\\EfSample.Entities\\EfSample.Entities.csproj",
+      "projectUniqueName": "E:\\Source\\PepDotNet6\\EFCore\\Session03\\EFQuertSample\\EfSample.Entities\\EfSample.Entities.csproj",
       "projectName": "EfSample.Entities",
-      "projectPath": "E:\\Source\\EFQuertSample\\EfSample.Entities\\EfSample.Entities.csproj",
+      "projectPath": "E:\\Source\\PepDotNet6\\EFCore\\Session03\\EFQuertSample\\EfSample.Entities\\EfSample.Entities.csproj",
       "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-      "outputPath": "E:\\Source\\EFQuertSample\\EfSample.Entities\\obj\\",
+      "outputPath": "E:\\Source\\PepDotNet6\\EFCore\\Session03\\EFQuertSample\\EfSample.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",

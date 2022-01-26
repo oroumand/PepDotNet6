@@ -1787,11 +1787,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Source\\EFQuertSample\\EfSample.Dal\\EfSample.Dal.csproj",
+      "projectUniqueName": "E:\\Source\\PepDotNet6\\EFCore\\Session03\\EFQuertSample\\EfSample.Dal\\EfSample.Dal.csproj",
       "projectName": "EfSample.Dal",
-      "projectPath": "E:\\Source\\EFQuertSample\\EfSample.Dal\\EfSample.Dal.csproj",
+      "projectPath": "E:\\Source\\PepDotNet6\\EFCore\\Session03\\EFQuertSample\\EfSample.Dal\\EfSample.Dal.csproj",
       "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-      "outputPath": "E:\\Source\\EFQuertSample\\EfSample.Dal\\obj\\",
+      "outputPath": "E:\\Source\\PepDotNet6\\EFCore\\Session03\\EFQuertSample\\EfSample.Dal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1808,8 +1808,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Source\\EFQuertSample\\EfSample.Entities\\EfSample.Entities.csproj": {
-              "projectPath": "E:\\Source\\EFQuertSample\\EfSample.Entities\\EfSample.Entities.csproj"
+            "E:\\Source\\PepDotNet6\\EFCore\\Session03\\EFQuertSample\\EfSample.Entities\\EfSample.Entities.csproj": {
+              "projectPath": "E:\\Source\\PepDotNet6\\EFCore\\Session03\\EFQuertSample\\EfSample.Entities\\EfSample.Entities.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7OFr+blw+jbt4N6uZDcfpHzkeT/LqiP66wj4u4i78OY0MTXBh7J96+gWqjoQfWl4NwKnz6reD1BZKP7bX+KuMQ==",
+  "dgSpecHash": "XxmoTskH5+52F8vy3agWdZFi568jkSvATgER+k/6pw+IeFMeNjR9jzQNBbySMtmLGP2arGjGGMdHbzYNBAoVhw==",
   "success": true,
-  "projectFilePath": "E:\\Source\\EFQuertSample\\EfSample.Dal\\EfSample.Dal.csproj",
+  "projectFilePath": "E:\\Source\\PepDotNet6\\EFCore\\Session03\\EFQuertSample\\EfSample.Dal\\EfSample.Dal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
